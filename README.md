@@ -2,4 +2,4 @@
 
 Coming soon!
 
-unreal-E social media platform app.
+unreal-E social media platform app with zoo animals.
